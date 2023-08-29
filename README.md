@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=boyandmtrv.boyandmtrv" />
 
-<!--
-**boyandmtrv/boyandmtrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&center=true&vCenter=true&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi+there👋!;I'm+Boyan!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+ 
+  👨‍🎓 Right now, I'm focused on developing **Single Page Applications**.
+ 
+ 🔧 Currently working on improving my skills by learning **React** and other related libraries.
+
+ 🗺️ I'm interested in collaborating on innovative web projects where I can apply my **skills**.
+ 
+ </div>
+ 
