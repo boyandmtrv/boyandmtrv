@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=boyandmtrv.boyandmtrv" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&center=true&vCenter=true&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi+there👋!;I'm+Boyan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&center=true&vCenter=true&duration=3000&pause=1000&color=BF91F3&width=435&lines=Hi+there👋!;I'm+Boyan!;" />
 </h1>
 
-<h3 align="center">Javascript developer</h3>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=70A5FD&repeat=false&width=250&lines=JavaScript+Developer" />
+</h3>
 
 <br />
 
@@ -30,7 +32,8 @@
   </a>
  </div>
 
- <hr/> 
+<br/>
+<br/>
 
  <h2 align="center">:unlock: Languages-N-Tools</h2>
 <br/>
@@ -39,7 +42,10 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,postman,regex,replit,stackoverflow,vscode,atom,netlify" />
 </div>
 
-<hr />
+
+<br/>
+<br/>
+
 
   <h2 align="center">🔒Curently improving</h2>
 <br/>
@@ -47,7 +53,11 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,express" />
 </div>
 
-<hr />
+
+<br/>
+<br/>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -63,7 +73,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=700&center=true&vCenter=true&width=500&height=70&duration=4000&color=BF91F3&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
