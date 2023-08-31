@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=70A5FD&repeat=false&width=250&lines=JavaScript+Developer" />
 </h3>
 
-<br />
 
 <div align="center">
  
@@ -22,21 +21,24 @@
  <div align="center">
  
   <a href="mailto:boyandimitrov1462@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-BF91F3?style=for-the-badge&logo=gmail&logoColor=black" target="_blank">
   </a>
   <a href="https://in.linkedin.com/in/boyan-dimitrov-4402b4179/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkeIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
+      <img src="https://img.shields.io/badge/Linkedin-BF91F3?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank">
   </a>
      <a href="https://experiora.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=todoist&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-BF91F3?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
  </div>
 
 <br/>
 <br/>
 
- <h2 align="center">:unlock: Languages-N-Tools</h2>
-<br/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=70A5FD&repeat=false&width=250&lines=Languages+and+Tools" />
+</h3>
+<hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,github,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,postman,regex,replit,stackoverflow,vscode,atom,netlify" />
@@ -47,8 +49,10 @@
 <br/>
 
 
-  <h2 align="center">🔒Curently improving</h2>
-<br/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=70A5FD&repeat=false&width=250&lines=Currently+Improving" />
+</h3>
+<hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,express" />
 </div>
@@ -59,8 +63,10 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=70A5FD&repeat=false&width=250&lines=Languages+and+Tools" />
+</h3>
+<hr />
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=boyandmtrv&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
     <br />
