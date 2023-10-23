@@ -10,9 +10,9 @@
 
 
 <div align="center">
-    <h4>Right now, I'm focused on learning REACT and JSX</h4>
-     <h4>Currently working on improving my skills by learning REACT and other related libraries.</h4>
-       <h4>I'm interested in collaborating on innovative web projects where I can apply my SKILLS.</h4>
+    <h5 align="center">Right now, I'm focused on learning REACT and JSX</h5>
+     <h5 align="center">Currently working on improving my skills by learning REACT and other related libraries.</h5>
+       <h5 align="center">I'm interested in collaborating on innovative web projects where I can apply my SKILLS.</h5>
  </div>
 
 </br>
