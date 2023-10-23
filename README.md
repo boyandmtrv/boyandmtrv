@@ -1,24 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=boyandmtrv.boyandmtrv" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&center=true&vCenter=true&duration=3000&pause=1000&color=FFF&width=435&lines=Hi+there👋!;I'm+Boyan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&center=true&vCenter=true&duration=3000&pause=1000&color=FFF&width=435&lines=Hi+there!;I'm+Boyan!;" />
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=FFF&repeat=false&width=250&lines=JavaScript+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=23&duration=1&pause=1&color=FFF&repeat=false&width=275&lines=JavaScript+Developer" />
 </h3>
 
 
 <div align="center">
  <h4 align="center">
-  Right now, I'm focused on learning REACT.
+  <p>Right now, I'm focused on learning REACT and JSX</p>
+     <p>Currently working on improving my skills by learning REACT and other related libraries.</p>
+       <p>I'm interested in collaborating on innovative web projects where I can apply my SKILLS.</p>
  </h4>
-    <h4 align="center">
-  Currently working on improving my skills by learning REACT and other related libraries.
- </h4>
-<h4 align="center">
-  I'm interested in collaborating on innovative web projects where I can apply my SKILLS 
-</h4>
  </div>
 
 </br>
