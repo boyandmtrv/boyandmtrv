@@ -52,7 +52,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=FFF&repeat=false&width=227&lines=Currently+Improving" />
 </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react,vite" />
 </div>
 
 
