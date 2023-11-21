@@ -38,7 +38,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=1&pause=1&color=FFF&repeat=false&width=227&lines=Languages+and+Tools" />
 </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,nextjs,express,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,regex,bash,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postman,vscode,atom,netlify,vercel,firebase,stackoverflow,replit" />
 </div>
