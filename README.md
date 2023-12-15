@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=23&duration=1&pause=1&color=FFF&repeat=false&width=200&lines=Web+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=23&duration=1&pause=1&color=FFF&repeat=false&width=180&lines=Web+Developer" />
 </h3>
 
 
