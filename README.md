@@ -25,7 +25,7 @@
   <a href="https://in.linkedin.com/in/boyan-dimitrov-4402b4179/" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-     <a href="https://experiora.netlify.app/" target="_blank">
+     <a href="https://boyandmtrv-e6713.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
  </div>
